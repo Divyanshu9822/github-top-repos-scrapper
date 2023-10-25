@@ -1,0 +1,24 @@
+# Topic name : Amp
+# Description : Amp is a non-blocking concurrency library for PHP.
+# Github topic URL : https://github.com/topics/amphp
+user_name,repo_name,repo_url,forks,stars,tags,languages_used
+amphp,amp,https://github.com/amphp/amp,261.0,4000.0,"['php', 'promises', 'async', 'asynchronous', 'coroutines', 'concurrency', 'futures', 'amphp', 'revolt']",{'PHP': '100.0%'}
+danog,MadelineProto,https://github.com/danog/MadelineProto,631.0,2500.0,"['bot', 'php', 'telegram', 'lua', 'async', 'proxy', 'telegram-api', 'mtproto', 'easy', 'voip', 'madelineproto', 'hacktoberfest', 'amphp', 'stickers', 'inline-bots', 'calls', 'tdlib', 'secret-chats', 'tdlib-php', 'mtproto-api']","{'PHP': '99.7%', 'Shell': '0.3%'}"
+unreal4u,telegram-api,https://github.com/unreal4u/telegram-api,182.0,765.0,"['php', 'composer', 'telegram', 'php7', 'telegram-bot', 'reactphp', 'bot-api', 'telegram-api', 'wiki-page', 'amphp', 'inline-bots']",{'PHP': '99.7%'}
+amphp,parallel,https://github.com/amphp/parallel,55.0,697.0,"['php', 'multiprocessing', 'concurrency', 'parallel', 'amphp', 'parallel-processing', 'revolt']",{'PHP': '100.0%'}
+amphp,http-client,https://github.com/amphp/http-client,64.0,669.0,"['php', 'http', 'async', 'https', 'http-client', 'amphp', 'revolt']","{'PHP': '99.9%', 'Shell': '0.1%'}"
+amphp,byte-stream,https://github.com/amphp/byte-stream,25.0,349.0,"['php', 'stream', 'async', 'io', 'non-blocking', 'amphp']",{'PHP': '100.0%'}
+php-service-bus,service-bus,https://github.com/php-service-bus/service-bus,23.0,347.0,"['async', 'messaging', 'command-bus', 'event-sourcing', 'publish-subscribe', 'amphp']",{'PHP': '100.0%'}
+amphp,mysql,https://github.com/amphp/mysql,61.0,327.0,"['mysql', 'php', 'async', 'amphp', 'revolt']",{'PHP': '100.0%'}
+amphp,parallel-functions,https://github.com/amphp/parallel-functions,18.0,247.0,"['php', 'parallel', 'amphp']",{'PHP': '100.0%'}
+amphp,process,https://github.com/amphp/process,29.0,219.0,"['php', 'async', 'multiprocessing', 'processes', 'amphp']",{'PHP': '100.0%'}
+amphp,socket,https://github.com/amphp/socket,37.0,201.0,"['tls', 'php', 'ssl', 'client', 'socket', 'unix', 'tcp', 'server', 'async', 'udp', 'io', 'non-blocking', 'amphp']","{'PHP': '99.6%', 'Shell': '0.4%'}"
+xtrime-ru,TelegramRSS,https://github.com/xtrime-ru/TelegramRSS,38.0,195.0,"['rss', 'php', 'json', 'telegram', 'microservice', 'server', 'async', 'self-hosted', 'amphp']","{'PHP': '92.3%', 'HTML': '7.7%'}"
+amphp,sync,https://github.com/amphp/sync,12.0,147.0,"['php', 'synchronization', 'async', 'concurrency', 'semaphore', 'mutex', 'amphp', 'revolt']",{'PHP': '100.0%'}
+amphp,dns,https://github.com/amphp/dns,29.0,142.0,"['dns', 'php', 'async', 'amphp']",{'PHP': '100.0%'}
+amphp,redis,https://github.com/amphp/redis,32.0,141.0,"['redis', 'php', 'async', 'cache', 'amphp', 'revolt', 'amphp-cache', 'amphp-sync', 'amphp-mutex']",{'PHP': '100.0%'}
+amphp,websocket-client,https://github.com/amphp/websocket-client,18.0,126.0,"['php', 'async', 'websockets', 'amphp']",{'PHP': '100.0%'}
+kelunik,acme,https://github.com/kelunik/acme,18.0,122.0,"['letsencrypt', 'php', 'async', 'acme', 'acme-protocol', 'amphp']","{'PHP': '99.8%', 'Shell': '0.2%'}"
+amphp,websocket-server,https://github.com/amphp/websocket-server,18.0,106.0,"['php', 'http', 'async', 'websocket', 'websockets', 'rfc-6455', 'amphp']",{'PHP': '100.0%'}
+amphp,serialization,https://github.com/amphp/serialization,3.0,101.0,"['php', 'serialization', 'amphp']",{'PHP': '100.0%'}
+amphp,cache,https://github.com/amphp/cache,15.0,92.0,"['php', 'cache', 'amphp', 'amphp-cache']",{'PHP': '100.0%'}
